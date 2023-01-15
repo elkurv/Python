@@ -1,0 +1,15 @@
+score = 100
+# command soal jika jawaban benar
+if score == 100
+  print("Jawaban Benar!")
+  
+# command soal jika jawaban hampir benar
+elif score >= 90
+  print("Hampir Benar!")
+  
+# command soal jika jawaban salah
+else :
+  print("Jawaban Salah!")
+  
+Jika jawaban di bawah 90 maka jawaban akan
+dianggap salah.
