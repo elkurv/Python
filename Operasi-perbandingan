@@ -1,0 +1,7 @@
+------ | Python | -----
+==  : True jika nilai di kiri dan kanan adalah setara
+!=  : True jika TIDAK setara
+<   : True jika nilai di kanan lebih besar dari nilai di kiri
+<=  : True jika nilai di kanan lebih besar dari atau sama dengan nilai di kiri
+>   : True jika nilai di kanan lebih kecil dari nilai di kiri
+>=  : True jika nilai di kanan lebih kecil dari atau sama dengan nilai di kiri
